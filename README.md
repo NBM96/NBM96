@@ -1,6 +1,6 @@
 <!-- Banner & Profile -->
 <p align="center">
-  <img src="https://github.com/NBM96/NBM96/blob/main/assets/banner.png" alt="Banner" width="100%" />
+  <img src="https://github.com/NBM96/NBM96/banner.png" alt="Banner" width="100%" />
   <br>
   <img src="https://avatars.githubusercontent.com/u/your-github-id?v=4" width="120" style="border-radius:50%;">
   <br>
