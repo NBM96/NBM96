@@ -1,8 +1,6 @@
 <!-- Banner & Profile -->
 <p align="center">
-  <img src="https://github.com/NBM96/NBM96/banner.png" alt="Banner" width="100%" />
-  <br>
-  <img src="https://avatars.githubusercontent.com/u/your-github-id?v=4" width="120" style="border-radius:50%;">
+  <img src="banner.png" alt="Banner" width="150" height="150" style="border-radius:50%; over" />
   <br>
   <h1>Nidhal Ben Maad</h1>
   <p><strong>Senior Full-Stack Engineer</strong> | <em>Scalable Web & Mobile Apps</em></p>
