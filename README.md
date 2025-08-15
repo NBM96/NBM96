@@ -1,6 +1,6 @@
 <!-- Banner & Profile -->
 <p align="center">
-  <img src="banner.png" alt="Banner" width="150" height="150" style="border-radius:50%; over" />
+  <img src="banner.png" alt="Banner" width="150" height="150" style="border-radius:50%;" />
   <br>
   <h1>Nidhal Ben Maad</h1>
   <p><strong>Senior Full-Stack Engineer</strong> | <em>Scalable Web & Mobile Apps</em></p>
