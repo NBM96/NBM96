@@ -112,6 +112,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/NBM96/NBM96/output/snake.svg" alt="Snake animation" />
 
 ###
